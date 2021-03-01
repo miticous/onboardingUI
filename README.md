@@ -10,3 +10,8 @@ Run on Simulator! (no pods required)
 
 
 ![Alt text](Onboarding/Resources/Images/demo.gif?raw=true "Title")
+
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
